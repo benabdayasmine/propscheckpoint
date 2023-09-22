@@ -1,10 +1,11 @@
 .App {
   min-height: 100vh;
-  background-color: bisque;
+  background: url("https://img.freepik.com/photos-premium/fond-bleu-degrade-luxe-abstrait-bleu-fonce-lisse-vignette-noire-studio-banner_1258-54053.jpg");
   width: 100%;
   margin: 0;
 }
 h1 {
   margin-top: 0;
   text-align: center;
+
 }

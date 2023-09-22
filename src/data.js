@@ -44,13 +44,4 @@ export let data = [
     country:
       "https://img.freepik.com/vecteurs-premium/drapeau-du-bresil-drapeau-du-bresil-texture-grunge_546559-185.jpg ",
   },
-  {
-    url: "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcT3OwdTlXvvqncDyj03eujLbKLqLHjdbiIFvA4JsAqLjyPMI-0jhmTA9j_pDkJIsLxG",
-    name: "Julián Álvarez",
-    num: 19,
-    poste: "attaquant",
-    fo: "Footballeur international argentin",
-    country:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langfr-225px-Flag_of_Argentina.svg.png",
-  },
 ];
