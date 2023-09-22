@@ -1,0 +1,15 @@
+.players-list {
+  
+  width: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+}
+.CardItem {
+  box-sizing: border-box;
+  width: fit-content;
+  padding: 20px;
+ background-color:white;
+}
